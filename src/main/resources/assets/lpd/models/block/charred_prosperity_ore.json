@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lpd:blocks/charred_prosperity_ore"
+  }
+}
